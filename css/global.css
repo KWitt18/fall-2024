@@ -1,0 +1,19 @@
+/* colors */
+
+/*
+60% of #26D9A6 - Primary
+30% of #A626D9 - Secondary
+10% of #D9A626 - accent
+*/
+
+:root {
+
+/*var(--dominantColor) !important; */
+--dominantColor: #26D9A6;
+
+/var(--secondaryColor) !important; */
+--secondaryColorColor: #A626D9;
+
+/var(--accentColor) !important; */
+--accentColorColor: #D9A626;
+}

@@ -3,14 +3,13 @@
 
 .test-font {
 
-    color: #26D9A6;
-
+    color: /*var(--dominantColor) !important;
 
 }
 
 
 .test-font-2 {
 
-    color: #A626D9;
+    color: /*var(--dominantColor) !important;;
 }
 

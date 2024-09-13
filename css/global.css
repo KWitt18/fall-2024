@@ -11,9 +11,9 @@
 /*var(--dominantColor) !important; */
 --dominantColor: #26D9A6;
 
-/var(--secondaryColor) !important; */
---secondaryColorColor: #A626D9;
+/*var(--secondaryColor) !important; */
+--secondaryColor: #A626D9;
 
-/var(--accentColor) !important; */
---accentColorColor: #D9A626;
+/*var(--accentColor) !important; */
+--accentColor: #D9A626;
 }

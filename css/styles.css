@@ -12,3 +12,7 @@
     color: #ffffff;
 }
 
+.fa-row-icon:hover {
+transform: scale(1.1);
+}
+

@@ -17,3 +17,16 @@
 .fa-row-icon:hover {
     transform: scale(1.1);
 }
+
+
+.fisrt-paragraph-div {
+    position: relative;
+    background-color: #ffffffff;
+    color: #000000;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 20px;
+    height: auto;
+
+
+}

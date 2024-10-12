@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 @import'global.css';
 @import'main.css';
 
-.fa-row{
-    background-color: var(--dominantColor) !important; 
+
+.fa-row {
+    background-color: var(--dominantColor) !important;
     padding: 35px;
     color: #ffff;
 }
@@ -13,6 +15,5 @@
 }
 
 .fa-row-icon:hover {
-transform: scale(1.1);
+    transform: scale(1.1);
 }
-

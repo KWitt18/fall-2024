@@ -21,7 +21,7 @@
 
 .fisrt-paragraph-div {
     position: relative;
-    background-color: #ffffffff;
+    background-color: #ffffff;
     color: #000000;
     font-weight: normal;
     font-size: 16px;
@@ -31,7 +31,7 @@
     margin-bottom: 18px;
     font-family: "Dancing Script", serif;
     margin-left: auto;
-    margin-right: right;
+    margin-right: auto;
 
 
 }

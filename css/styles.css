@@ -19,7 +19,7 @@
 }
 
 
-.fisrt-paragraph-div {
+.first-paragraph-div {
     position: relative;
     background-color: #ffffff;
     color: #000000;
@@ -44,8 +44,7 @@
 
 }
 
-.content-table th,
-.content-table td {
+.content-table th .content-table td {
     padding: 20px;
 }
 

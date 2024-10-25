@@ -81,4 +81,12 @@
     background-color: #f6f8fa;
     padding-top: 30px;
     padding-bottom: 30px;
+
+}
+
+@media screen and (mad-width:768px) {
+    .schedule-section {
+        width: 100%;
+        display: none;
+    }
 }

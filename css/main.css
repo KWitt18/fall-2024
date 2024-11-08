@@ -101,3 +101,14 @@ blockquote cite::before {
     content: "\2014 \2009";
 
 }
+
+.cropped {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 15px;
+    border: 10px;
+    color: var(--accentColor) !important;
+    margin: auto;
+
+}

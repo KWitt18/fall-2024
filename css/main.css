@@ -81,7 +81,7 @@ blockquote {
 blockquote::before {
     display: block;
     padding-left: 10px;
-    content: "/201c";
+    content: "\201c";
     font-size: 80px;
     position: absolute;
     left: -20;
@@ -98,6 +98,6 @@ blockquote cite {
 }
 
 blockquote cite::before {
-    content: "/2014 /2009";
+    content: "\2014 \2009";
 
 }

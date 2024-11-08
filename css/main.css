@@ -84,7 +84,7 @@ blockquote::before {
     content: "\201c";
     font-size: 80px;
     position: absolute;
-    left: -20;
+    left: -20px;
     top: -20px;
     color: var(--accentColor) !important;
 }

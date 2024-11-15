@@ -9,6 +9,7 @@
     /* vertical, horizontal, blur, spread, color+opacity */
     ;
     border-radius: 40px;
+    width: 75%;
 }
 
 .webform div {

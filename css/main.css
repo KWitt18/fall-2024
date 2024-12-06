@@ -103,8 +103,8 @@ blockquote cite::before {
 }
 
 .cropped {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     border-radius: 75%;
     margin-top: 15px;
     border: 10px solid var(--accentColor) !important;

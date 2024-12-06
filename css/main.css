@@ -105,9 +105,9 @@ blockquote cite::before {
 .cropped {
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 75%;
     margin-top: 15px;
     border: 10px solid var(--accentColor) !important;
     margin: auto;
-    clip-path: circle(50% at 50% 50%);
+    clip-path: circle(75% at 75% 75%);
 }
